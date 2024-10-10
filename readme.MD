@@ -2,7 +2,7 @@
 
 This module is going to create following resources. For High availability we are going to get first 2 AZ
 
-### VPC
+* VPC
 
 . Internet Gateway associated with VPC
 
