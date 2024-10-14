@@ -78,3 +78,16 @@ This module is going to create following resources. For High availability we are
 ## Outputs
 
 * vpc_id: VPC ID created
+
+* az_info: Availability zones info in the region
+
+* public_subnet_ids: Public subnet ids
+
+* public_subnet_ids: Public subnet ids
+
+* private_subnet_ids: Private subnet ids
+
+* database_subnet_ids: Database subnet ids
+
+* database_subnet_group_name: Name of the database subnet group
+
